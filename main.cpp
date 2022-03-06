@@ -15,5 +15,6 @@ int main()
         cout << " ";
         tmp = strtok(NULL," ");
     }
+    cout << "hello" << endl;
     return 0;
 }
